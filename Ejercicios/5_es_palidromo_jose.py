@@ -2,6 +2,7 @@
 def es_palindromo(cadena):
     return cadena==cadena[::-1] 
 
+# prueba git
 # Prueba la función con al menos 3 cadenas distintas
 cadenas=[
     "bocadillo",
