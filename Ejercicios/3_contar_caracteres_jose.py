@@ -1,4 +1,5 @@
 # Escribe un programa que cuente la frecuencia de cada carácter en una cadena.
+# prueba github comit
 def contar_caracteres(cadena):
     diccionario_frecuencia={}
     for car in cadena:
