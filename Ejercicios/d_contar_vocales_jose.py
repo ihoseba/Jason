@@ -12,12 +12,11 @@ def contar_vocales(cadena):
 
 # Prueba la función con al menos 3 cadenas distintas
 
-cadena_prueba="aeiouqwert"
-print(f'La Cadena {cadena_prueba} contiene {contar_vocales(cadena_prueba)}')
-cadena_prueba="aeiouaeiouaeiouqwert"
-print(cadena_prueba)
-print(contar_vocales(cadena_prueba))
-cadena_prueba="en un lugar de la mancha"
-print(cadena_prueba)
-print(contar_vocales(cadena_prueba))
-
+CADENA_PRUEBA="aeiouqwert"
+print(f'La Cadena {CADENA_PRUEBA} contiene {contar_vocales(CADENA_PRUEBA)}')
+CADENA_PRUEBA="aeiouaeiouaeiouqwert"
+print(CADENA_PRUEBA)
+print(contar_vocales(CADENA_PRUEBA))
+CADENA_PRUEBA="en un lugar de la mancha"
+print(CADENA_PRUEBA)
+print(contar_vocales(CADENA_PRUEBA))

@@ -1,6 +1,8 @@
+""" modulo es Palindromo """
 # Escribe una función que verifique si una cadena es un palíndromo.
 def es_palindromo(cadena):
-    return cadena==cadena[::-1] 
+    """ funcion para coprobar si es palindromo """
+    return cadena==cadena[::-1]
 
 # Prueba la función con al menos 3 cadenas distintas
 cadenas=[
@@ -13,4 +15,3 @@ for cadena in cadenas:
         print(f'Si, {cadena} es palindromo')
     else:
         print(f'pues no, {cadena} no es palíndromo')
-

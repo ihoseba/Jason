@@ -4,6 +4,9 @@ import a_ordenar_lista_jose as ord_list
 from b_es_primo_jose import es_primo
 from c_contar_caracteres_jose import contar_caracteres
 import d_contar_vocales_jose
+from e_es_palidromo_jose import es_palindromo
+from f_traspuesta_jose import trasponer
+from g_fizbuzz_jose import fizz_buzz
 
 # Hacer un menu para entrar en los diferentes ejercicios
 menu=[
@@ -68,14 +71,21 @@ while True:
         CADENA_PRUEBA="en un lugar de la mancha"
         print(CADENA_PRUEBA)
         print(d_contar_vocales_jose.contar_vocales(CADENA_PRUEBA))
-
-        none()
     elif opcion=='5':
-        none()
+        cadenas=[
+            "bocadillo",
+            "reconocer",
+            "aeihiea"]
+        for cadena in cadenas:
+            if es_palindromo(cadena):
+                print(f'Si, {cadena} es palindromo')
+            else:
+                print(f'pues no, {cadena} no es palíndromo')
     elif opcion=='6':
-        none()
+        trasponer()
     elif opcion=='7':
-        none()
+        for n in range(1,100+1):
+            fizz_buzz(n)
     elif opcion=='0':
         break
     else:
