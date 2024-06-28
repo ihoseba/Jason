@@ -12,30 +12,34 @@ menu=['1, Ordenar Lista',
       ]
 
 # Selecionar una opcion
-# Main
-while True:
-    os.system('cls')
+def seleccion_opcion(menu):
     for texto in menu:
         print(texto)
     opcion=input("Opcion ?")
+    return opcion
+
+# Main
+while True:
+    os.system('cls')
+    opcion=seleccion_opcion(menu)
     if opcion=='1':
-        print(f'Opcion seleccionada {opcion}')
+        print(f'Opcion seleccionada \"{menu[int(opcion)-1]}\"')
         ord_list.ordenar_lista()
     elif opcion=='2':
-        print(f'Opcion seleccionada {opcion}')
+        print(f'Opcion seleccionada \"{menu[int(opcion)-1]}\"')
         num=int(input("dame un numero: "))
         if es_primo(num) == True:
             print(' Sip, primo es')
         else:
             print('No, no es primo')
     elif opcion=='3':
-        print(f'Opcion seleccionada {opcion}')
+        print(f'Opcion seleccionada \"{menu[int(opcion)-1]}\"')
     elif opcion=='4':
-        print(f'Opcion seleccionada {opcion}')
+        print(f'Opcion seleccionada \"{menu[int(opcion)-1]}\"')
     else:
         break
     input('Seguir?')
     continue
 
-# Lanzar funciones de loo otros ficheros
+# Lanzar funciones de los otros ficheros
 # v
