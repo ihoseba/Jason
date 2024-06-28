@@ -1,7 +1,8 @@
 # Escribe una función que verifique si una cadena es un palíndromo.
 def es_palindromo(cadena):
     return cadena==cadena[::-1] 
-# modificamos desarrollo
+
+# prueba git cambios
 
 # prueba git
 # Prueba la función con al menos 3 cadenas distintas
