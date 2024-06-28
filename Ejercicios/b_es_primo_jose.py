@@ -1,5 +1,7 @@
+""" Dichero par comprobar si un numero es primo """
 # Escribe una función que verifique si un número es primo.
 def es_primo(n):
+    """Comprobar si primo"""
     for i in range(2, n):
         if (n % i) == 0:
             return False

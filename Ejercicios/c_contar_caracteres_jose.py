@@ -1,6 +1,8 @@
+""" Funcion contacr caracteres """
 # Escribe un programa que cuente la frecuencia de cada carácter en una cadena.
 # prueba github comit
 def contar_caracteres(cadena):
+    """ Contar Caracteres """
     diccionario_frecuencia={}
     for car in cadena:
         if diccionario_frecuencia.get(car)==None:
