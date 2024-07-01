@@ -11,6 +11,7 @@
 # import msvcrt
 import os
 import fractions
+import statistics
 
 ERROR=666
 # ceil, floor, sqrt, exp, cos, pi
