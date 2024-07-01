@@ -17,8 +17,8 @@ ERROR=666
 def menu():
     """" Menu de la calculadora """
     os.system('cls')
-    OPCIONES=['0','1','2','3','4','c','C','f','F','s','S','e','E','o','O','p','P']
-    print("Opciones 1,2,3,4,0 = (+),(-),(*),(/),(c)eil,(f)loor,(s)qrt,(e)sp,c(o)s,(p)i (Salir)")
+    OPCIONES=['+','-','*','/','4','c','C','f','F','s','S','e','E','o','O','p','P']
+    print("Opciones (+),(-),(*),(/),(c)eil,(f)loor,(s)qrt,(e)sp,c(o)s,(p)i (Salir)")
     opcion="ERROR" # hasta que sepa hacerlo mejor
     while opcion not in OPCIONES:
         opcion=input("Operacion?: ")
@@ -26,7 +26,7 @@ def menu():
 #        opcion=int(opcion)
         if opcion not in OPCIONES:
             print('Ha de ser:')
-            print("Opciones 1,2,3,4,0 = (+),(-),(*),(/),(c)eil,(f)loor,(s)qrt,(e)sp,c(o)s,(p)i (Salir)")
+            print("Opciones (+),(-),(*),(/),(c)eil,(f)loor,(s)qrt,(e)sp,c(o)s,(p)i (Salir)")
             opcion=ERROR
     return opcion
 
@@ -145,20 +145,20 @@ while opcion != '0':
     if opcion=='0':
         print("Saliendo...")
         break
-    if opcion=='1':
+    if opcion=='+' or opcion=='1':
         a,b=frac_operandos()
         resultado=suma(a,b)
         print(type(a),type(b),type(resultado))
         print(f'La Suma de {a} + {b} es {resultado}')
-    elif opcion=='2':
+    elif opcion=='-' or opcion=='2':
         a,b=frac_operandos()
         resultado=resta(a,b)
         print(f'La Resta de {a} - {b} es {resultado}')
-    elif opcion=='3':
+    elif opcion=='3*' or opcion=='3':
         a,b=frac_operandos()
         resultado=multiplicacion(a,b)
         print(f'La Multiplicacion de {a} x {b} es {resultado}')
-    elif opcion=='4':
+    elif opcion=='/' or opcion=='4':
         a,b=frac_operandos()
         resultado=division(a,b)
         print(f'La Division de {a} : {b} es {resultado}')
