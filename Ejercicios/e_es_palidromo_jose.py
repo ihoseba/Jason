@@ -4,6 +4,9 @@ def es_palindromo(cadena):
     """ funcion para coprobar si es palindromo """
     return cadena==cadena[::-1]
 
+# prueba git cambios
+
+# prueba git
 # Prueba la función con al menos 3 cadenas distintas
 cadenas=[
     "bocadillo",
