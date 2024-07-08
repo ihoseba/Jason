@@ -42,4 +42,17 @@ while mucho is False and resultado<10**300:
 print(f"Iteracion: {n}")
 print(f"El tiempo de ejecución es: {tiempo_transcurrido:.3f} mili segundos")
 print(f"El término cuando n = {n} es:", resultado)
-print(fin)
+
+
+# Inicia el contador
+inicio = 1000*time.time()
+
+resultado = fibonac(40)
+
+# Detiene el contador e imprime el resultado
+fin = 1000*time.time()
+tiempo_transcurrido = fin - inicio
+
+print(f"Fibonacci nro: 40")
+print(f"El tiempo de ejecución es: {tiempo_transcurrido:.3f} mili segundos")
+print(f"El término cuando n = 40 es:", resultado)
