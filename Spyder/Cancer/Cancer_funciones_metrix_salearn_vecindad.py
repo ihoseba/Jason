@@ -79,4 +79,7 @@ print(num,exactitud)
 
 fig, ax = plt.subplots()
 ax.plot(num, exactitud, c='red')
-ax.show()
+# ax.xlabel("Exactitud")
+# ax.ylabel("Exactitud")
+# ax.title("Exactitud")
+# ax.show()
