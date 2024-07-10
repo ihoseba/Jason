@@ -43,6 +43,7 @@ print("Estructura de la variable prestigio:",type(prestigio),"Tamaño:",len(pres
 
 ingresos=np.array([ingresos])
 ingresos=np.transpose(ingresos)
+ingresos2=np.array(ingresos) # Parece hacer lo mismo
 prestigio=np.array(prestigio)
 
 #Generamos los conjuntos de entrada y de entrenamiento. Invocamos el procedimiento de regresión.
