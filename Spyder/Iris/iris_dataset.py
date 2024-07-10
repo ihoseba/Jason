@@ -25,4 +25,4 @@ frame=iris['frame']
 fix, ax = plt.subplots()
 ax.plot(iris_data)
 
-        
+plt.show()

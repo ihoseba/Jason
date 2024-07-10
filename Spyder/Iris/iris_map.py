@@ -12,3 +12,4 @@ iris_conj = sns.load_dataset("iris")
 
 
 sns.pairplot(iris_conj, hue='species', diag_kind='hist')
+plt.show()

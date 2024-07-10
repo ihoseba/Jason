@@ -43,7 +43,8 @@ elif op=='4':
 else:
     pass
 plt.grid()
-plt.ti2tle('Dispersion3')
+plt.title('Dispersion3')
+plt.show()
 
 # lmplot(df,x='petal_width',y='petal_length',hue='species',fit_reg=False,scatter_kws{'s':40,})
 

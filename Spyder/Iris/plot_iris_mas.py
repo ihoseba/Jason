@@ -13,3 +13,4 @@ iris_data = iris['data']
 
 fig, ax = plt.subplots()
 ax.plot(iris_data)
+plt.show()
