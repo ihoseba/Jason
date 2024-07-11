@@ -40,7 +40,6 @@ lr = LinearRegression()
 lr.fit(X_train, y_train)
 
 y_pred = lr.predict(X_test)
-y_pred2 = lr.predict([[0]])
 
 # Valores de los coeficientes
 print("W1", lr.coef_)
@@ -63,6 +62,39 @@ coed_testing = round(lr.score(X_test, y_test), 2)
 
 
 # Realizar regresión con RM + MEDV
+
+# Preparar el primer array de regresión
+RM = np.array([df['RM']])
+RM = np.transpose(RM)
+
+X_train_2, X_test_2, y_train_2, y_test_2 = train_test_split(RM, medv, random_state=20)
+
+lr_2 = LinearRegression()
+lr_2.fit(X_train_2, y_train_2)
+
+y_pred_2 = lr_2.predict(X_test_2)
+
+# Valores de los coeficientes
+print("W1", lr_2.coef_)
+print("W0", lr_2.intercept_)
+
+fig, sub = plt.subplots()
+
+# Salida gráfica
+sub.scatter(X_test_2, y_test_2, color='black')
+sub.scatter(X_train_2, y_train_2, color='red')
+
+plt.xlabel("RM")
+plt.ylabel("MEDV")
+
+sub.plot(X_test_2, y_pred_2, color='yellow', linewidth=3)
+
+
+# Valor del coeficiente de determinación del conjunto de entrenamiento
+coef_training_2 = round(lr.score(X_train_2, y_train_2), 2)
+
+# Valor del coeficiente de determinación del conjunto de testing
+coed_testing_2 = round(lr.score(X_test_2, y_test_2), 2)
 
 
 
