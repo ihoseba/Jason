@@ -64,10 +64,12 @@ def z_medv(x, y):
 
 #z_medv = lambda x, y: (lr.intercept_ + lr.coef_[0] * x) + lr.coef_[1] * y
 
+tmp = z_medv(lstat_sup, rm_sup)
+
 ax.plot_surface(
     lstat_sup,
     rm_sup,
-    z_medv(lstat_sup, rm_sup),
+    tmp,
     rstride=1,
     cstride=1,
     color='red',

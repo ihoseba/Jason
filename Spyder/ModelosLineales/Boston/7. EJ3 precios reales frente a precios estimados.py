@@ -37,3 +37,12 @@ res_pred = lr.predict(X_test)
 print("W0", lr.intercept_)
 print("W1", lr.coef_[0])
 print("W2", lr.coef_[1])
+
+
+plt.scatter(y_test,res_pred)
+
+plt.plot([0, 50], [0, 50],color='red')
+
+plt.xlabel("Precios reales")
+plt.ylabel("Predicción de precios")
+plt.title("Precios reales vs Predicción de precios")
