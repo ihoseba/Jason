@@ -38,16 +38,19 @@ plt.scatter(X,y)
 plt.xlabel("Variable x")
 plt.ylabel("Variable y")
 
-#    1. Un valor constante (es decir, un ajuste tipo y = w0).
-# ++++++++++++++++
-#    2. Un ajuste lineal.
-# ++++++++++++++++
-#Ajuste lineal. Preparamos previamente X para que sea un array columna
+# Preparamos previamente X para que sea un array columna
 X = np.transpose([X])
 lr = LinearRegression().fit(X,y)
 X_lin_ajuste = np.arange(250,600,10)
 X_lin_ajuste = np.transpose([X_lin_ajuste])
 y_lin_ajuste = lr.predict(X_lin_ajuste)
+
+"""
+#    1. Un valor constante (es decir, un ajuste tipo y = w0).
+# ++++++++++++++++
+#    2. Un ajuste lineal.
+# ++++++++++++++++
+#Ajuste lineal.
 
 #Dibujamos el ajuste lineal. Empleamos las líneas discontinuas para representarlo.
 #plt.plot(X_lin_ajuste,y_lin_ajuste,label = "Ajuste lineal",linestyle = '--',color = 'green')
@@ -139,12 +142,13 @@ print("Coeficiente de determinación del modelo polinómico g=",n,":",
 
 #Dibujamos el ajuste cuadrático
 plt.plot(X_lin_ajuste,y_cuadr_ajuste_n,label = "Ajuste cuadrático n",color = 'black')
-
+"""
 # ++++++++++++++++
 #    barre. Un ajuste polinómico con g = rango.
 # ++++++++++++++++
-"""
-for i in range(0,9):
+colores=['red','blue','green','yellow','orange','purple','pink','gray',
+         'cyan','brown','black','white','turquoise','lime','silver']
+for i in range(0,10):
     n=i
     cuadratico_n = PolynomialFeatures(degree = n)
     X_cuadr_n = cuadratico_n.fit_transform(X)
@@ -154,14 +158,14 @@ for i in range(0,9):
     #Predicciones: errores y coeficientes de determinación
     y_cuadr_pred_n = pr_n.predict(X_cuadr_n)
     
-    print(" Error cuadrático medio del modelo polinómico g=n:\t\t\t\t\t",
-          round(mean_squared_error(y,y_cuadr_pred_n),4))
-    print("Coeficiente de determinación del modelo polinómico g=",n,":",
-          round(r2_score(y,y_cuadr_pred_n),4))
+    Err=round(mean_squared_error(y,y_cuadr_pred_n),4)
+    print(f" Error cuadrático medio del modelo polinómico g={n}:\t\t\t\t\t \
+          {Err}")
+    print(f"Coeficiente de determinación del modelo polinómico g={n}: \
+          {round(r2_score(y,y_cuadr_pred_n),4)}")
     
     #Dibujamos el ajuste cuadrático
-    plt.plot(X_lin_ajuste,y_cuadr_ajuste_n,label = "Ajuste cuadrático n",color = 'black')
-"""
+    plt.plot(X_lin_ajuste,y_cuadr_ajuste_n,label = f"Aj.cuad.{n}, {Err}",color = colores[i])
 # ++++++++++++++++
 
 # Colocar la leyenda en la esquina superior derecha
