@@ -169,7 +169,7 @@ for i in range(0,10):
 # ++++++++++++++++
 
 # Colocar la leyenda en la esquina superior derecha
-plt.legend(loc="upper left")
+plt.legend(loc="best")
 
 plt.show()
 
