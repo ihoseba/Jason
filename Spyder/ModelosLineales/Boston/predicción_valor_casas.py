@@ -59,7 +59,7 @@ mapa_calor = sns.heatmap(matriz_corr,
 # Posteriormente, genera el nuevo modelo y calcula cuáles son los nuevos 
 # coeficientes de determinación y su nuevo error cuadrático medio. 
 #
-
+"""
 X = pd.DataFrame(np.c_[df['LSTAT'], df['RM'], df['INDUS'], df['PTRATIO']],
                  columns=['LSTAT', 'RM', 'INDUS', 'PTRATIO'])
 y = df['MEDV']
@@ -82,7 +82,67 @@ print("Error cuadrático medio:", mean_squared_error(
     y_true=y_test,
     y_pred=y_pred
 ))
+"""
+# column_names = ['CRIM', 'ZN', 'INDUS', 'CHAS', 'NOX', 'RM',
+# 'AGE', 'DIS', 'RAD', 'TAX', 'PTRATIO', 'B', 'LSTAT', 'MEDV']
+X = pd.DataFrame(np.c_[df['LSTAT'], df['RM'], df['INDUS'], df['PTRATIO'],
+                       df['CRIM'], df['ZN'], df['CHAS'], df['NOX'],
+                       df['AGE'], df['DIS'], df['RAD'], df['TAX'], df['B']],
+                 columns=['LSTAT', 'RM', 'INDUS', 'PTRATIO',
+                          'CRIM','ZN','CHAS','NOX',
+                          'AGE','DIS','RAD','TAX','B'])
+y = df['MEDV']
 
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=20)
+
+lr = LinearRegression()
+lr.fit(X_train, y_train)
+y_pred = lr.predict(X_test)
+
+
+print("W0", lr.intercept_)
+print("W1 LSTAT", lr.coef_[0])
+print("W2 RM", lr.coef_[1])
+print("W3 INDUS", lr.coef_[2])
+print("W4 PTRATIO", lr.coef_[3])
+print("W5 CRIM", lr.coef_[4])
+print("W6 ZN", lr.coef_[5])
+print("W7 CHAS", lr.coef_[6])
+print("W8 NOX", lr.coef_[7])
+print("W9 AGE", lr.coef_[8])
+print("W10 DIS", lr.coef_[9])
+print("W11 RAD", lr.coef_[10])
+print("W12 TAX", lr.coef_[11])
+print("W13 B", lr.coef_[12])
+
+# Valor del error cuadrático medio
+print("Error cuadrático medio:", mean_squared_error(
+    y_true=y_test,
+    y_pred=y_pred
+))
+
+"""
+X = pd.DataFrame(np.c_[df['LSTAT'], df['RM']],
+                 columns=['LSTAT', 'RM'])
+y = df['MEDV']
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=20)
+
+lr = LinearRegression()
+lr.fit(X_train, y_train)
+y_pred = lr.predict(X_test)
+
+
+print("W0", lr.intercept_)
+print("W1 LSTAT", lr.coef_[0])
+print("W2 RM", lr.coef_[1])
+
+# Valor del error cuadrático medio
+print("Error cuadrático medio:", mean_squared_error(
+    y_true=y_test,
+    y_pred=y_pred
+))
+"""
 #
 # Finalmente, representa el diagrama predicción de precios vs residuos
 # e interpreta el resultado
