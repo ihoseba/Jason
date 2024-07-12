@@ -79,7 +79,7 @@ print("Coeficiente de determinación del modelo polinómico g=2:",
       round(r2_score(y,y_cuadr_pred),4))
 
 #Dibujamos el ajuste cuadrático
-plt.plot(X_lin_ajuste,y_cuadr_ajuste,label = "Ajuste cuadrático",color = 'red')
+plt.plot(X_lin_ajuste,y_cuadr_ajuste,label = "Ajuste cuadrático 2",color = 'red')
 
 # ++++++++++++++++
 #    4. Un ajuste polinómico con g = 4.
@@ -121,9 +121,51 @@ print("Coeficiente de determinación del modelo polinómico g=9:",
 plt.plot(X_lin_ajuste,y_cuadr_ajuste_9,label = "Ajuste cuadrático 9",color = 'green')
 
 # ++++++++++++++++
+#    n. Un ajuste polinómico con g = n.
+# ++++++++++++++++
+n=0
+cuadratico_n = PolynomialFeatures(degree = n)
+X_cuadr_n = cuadratico_n.fit_transform(X)
+pr_n = LinearRegression().fit(X_cuadr_n,y)
+y_cuadr_ajuste_n = pr_n.predict(cuadratico_n.fit_transform(X_lin_ajuste))
+
+#Predicciones: errores y coeficientes de determinación
+y_cuadr_pred_n = pr_n.predict(X_cuadr_n)
+
+print(" Error cuadrático medio del modelo polinómico g=n:\t\t\t\t\t",
+      round(mean_squared_error(y,y_cuadr_pred_n),4))
+print("Coeficiente de determinación del modelo polinómico g=",n,":",
+      round(r2_score(y,y_cuadr_pred_n),4))
+
+#Dibujamos el ajuste cuadrático
+plt.plot(X_lin_ajuste,y_cuadr_ajuste_n,label = "Ajuste cuadrático n",color = 'black')
+
+# ++++++++++++++++
+#    barre. Un ajuste polinómico con g = rango.
+# ++++++++++++++++
+"""
+for i in range(0,9):
+    n=i
+    cuadratico_n = PolynomialFeatures(degree = n)
+    X_cuadr_n = cuadratico_n.fit_transform(X)
+    pr_n = LinearRegression().fit(X_cuadr_n,y)
+    y_cuadr_ajuste_n = pr_n.predict(cuadratico_n.fit_transform(X_lin_ajuste))
+    
+    #Predicciones: errores y coeficientes de determinación
+    y_cuadr_pred_n = pr_n.predict(X_cuadr_n)
+    
+    print(" Error cuadrático medio del modelo polinómico g=n:\t\t\t\t\t",
+          round(mean_squared_error(y,y_cuadr_pred_n),4))
+    print("Coeficiente de determinación del modelo polinómico g=",n,":",
+          round(r2_score(y,y_cuadr_pred_n),4))
+    
+    #Dibujamos el ajuste cuadrático
+    plt.plot(X_lin_ajuste,y_cuadr_ajuste_n,label = "Ajuste cuadrático n",color = 'black')
+"""
+# ++++++++++++++++
 
 # Colocar la leyenda en la esquina superior derecha
-plt.legend(bbox_to_anchor=(1, 0), loc="lower left")
+plt.legend(loc="upper left")
 
 plt.show()
 
