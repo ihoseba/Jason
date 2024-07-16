@@ -28,20 +28,30 @@ from sklearn.model_selection import train_test_split
 from PIL import Image
 
 # Cargamos el fichero
+#species,island,bill_length_mm,bill_depth_mm,flipper_length_mm,body_mass_g,sex,year
 file_path = 'penguins_mod.csv'
-penguins = pd.read_csv(file_path,usecols=['bill_length_mm', 'bill_depth_mm'])
+penguins = pd.read_csv(file_path,usecols=['bill_length_mm', 'bill_depth_mm',
+                                          'flipper_length_mm','body_mass_g'])
 #Visualizar primeras lineas
 print(penguins.head(5))
 
 penguins_datos=pd.DataFrame()
 penguins_datos['bill_length_mm']=penguins['bill_length_mm']
-column_names = ['bill_length_mm', 'bill_depth_mm']
+penguins_datos['bill_depth_mm']=penguins['bill_depth_mm']
+penguins_datos['flipper_length_mm']=penguins['flipper_length_mm']
+penguins_datos['body_mass_g']=penguins['body_mass_g']
+column_names = ['bill_length_mm', 'bill_depth_mm','flipper_length_mm','body_mass_g']
 target = penguins.values[1::2, 2]
 
 
-X = pd.DataFrame(np.c_[df['LSTAT'], df['RM']], columns=['LSTAT', 'RM'])
-y = df['MEDV']
+X=penguins_datos
+#X = penguins_datos.DataFrame(penguins_datos.c_[df['bill_length_mm'], df['bill_depth_mm'],
+#                        df['flipper_length_mm'],df['body_mass_g']],
+#                 columns=['bill_length_mm', 'bill_depth_mm',
+#                          'flipper_length_mm','body_mass_g'])
+y = penguins['species']
 
+pass
 
 
 
