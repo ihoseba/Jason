@@ -104,57 +104,109 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.preprocessing import Normalizer
 from sklearn.metrics import accuracy_score
+from mlxtend.plotting import plot_decision_regions
 
+
+# Utiliza el dataset Wine disponible en sklearn.datasets.
+    
 # Cargar el conjunto de datos Wine
 wine_data = load_wine()
 X, y = wine_data.data, wine_data.target
 
-# Dividir los datos en conjuntos de entrenamiento y prueba
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+# Normalizar las características
+normalizer = Normalizer()
+X_normalized = normalizer.fit_transform(X)
 
+# Dividir los datos normalizados en conjuntos de entrenamiento y prueba
+X_train, X_test, y_train, y_test = train_test_split(X_normalized, y, test_size=0.3, random_state=42)
+
+
+# Clasifica el dataset utilizando:
+#    • SVM con kernel lineal, RBF y polinomial.
 # Crear y entrenar los clasificadores
-svm_linear = SVC(kernel='linear')
-svm_rbf = SVC(kernel='rbf')
-knn = KNeighborsClassifier(n_neighbors=5)
-decision_tree = DecisionTreeClassifier()
-
+svm_linear = SVC(kernel='linear', C=200)
 svm_linear.fit(X_train, y_train)
-svm_rbf.fit(X_train, y_train)
-knn.fit(X_train, y_train)
-decision_tree.fit(X_train, y_train)
-
+# Determina la exactitud alcanzada en cada caso
 # Calcular la precisión en los conjuntos de prueba
 accuracy_svm_linear = accuracy_score(y_test, svm_linear.predict(X_test))
+# Crear y entrenar los clasificadores
+svm_rbf = SVC(kernel='rbf', gamma=6, C=8.0)
+svm_rbf.fit(X_train, y_train)
+# Determina la exactitud alcanzada en cada caso
+# Calcular la precisión en los conjuntos de prueba
 accuracy_svm_rbf = accuracy_score(y_test, svm_rbf.predict(X_test))
+# Crear y entrenar los clasificadores
+svm_poly = SVC(kernel='poly', degree=6, gamma=4, C=2)
+svm_poly.fit(X_train, y_train)
+# Determina la exactitud alcanzada en cada caso
+# Calcular la precisión en los conjuntos de prueba
+accuracy_svm_poly = accuracy_score(y_test, svm_poly.predict(X_test))
+# Clasifica el dataset utilizando:
+#    • Un clasificador K-Nearest Neighbors (KNN).
+# Crear y entrenar los clasificadores
+knn = KNeighborsClassifier(n_neighbors=5)
+knn.fit(X_train, y_train)
+# Determina la exactitud alcanzada en cada caso
+# Calcular la precisión en los conjuntos de prueba
 accuracy_knn = accuracy_score(y_test, knn.predict(X_test))
+# Clasifica el dataset utilizando:
+#    • Un árbol de decisión.
+# Crear y entrenar los clasificadores
+decision_tree = DecisionTreeClassifier()
+decision_tree.fit(X_train, y_train)
+# Determina la exactitud alcanzada en cada caso
+# Calcular la precisión en los conjuntos de prueba
 accuracy_tree = accuracy_score(y_test, decision_tree.predict(X_test))
+
+# Representa gráficamente las fronteras de decisión para cada método)
 
 # Graficar las fronteras de decisión
 plt.figure(figsize=(12, 8))
 
 # SVM con kernel lineal
-plt.subplot(2, 2, 1)
+plt_lineal=plt.subplot(3, 2, 1)
 plt.title(f"SVM (Lineal) - Precisión: {accuracy_svm_linear:.2f}")
+# plot_decision_regions(X_train, y_train, svm_linear, plt_lineal, legend=2)
 # Representa las fronteras de decisión aquí
 
 # SVM con kernel RBF
-plt.subplot(2, 2, 2)
+plt.subplot(3, 2, 2)
 plt.title(f"SVM (RBF) - Precisión: {accuracy_svm_rbf:.2f}")
 # Representa las fronteras de decisión aquí
 
+# SVM con kernel RBF
+plt.subplot(3, 2, 3)
+plt.title(f"SVM (poly) - Precisión: {accuracy_svm_poly:.2f}")
+# Representa las fronteras de decisión aquí
+
 # KNN
-plt.subplot(2, 2, 3)
+plt.subplot(3, 2, 4)
 plt.title(f"KNN - Precisión: {accuracy_knn:.2f}")
 # Representa las fronteras de decisión aquí
 
 # Árbol de decisión
-plt.subplot(2, 2, 4)
+plt.subplot(3, 2, 5)
 plt.title(f"Árbol de decisión - Precisión: {accuracy_tree:.2f}")
 # Representa las fronteras de decisión aquí
 
 plt.tight_layout()
 plt.show()
 
+"""
+    plot_decision_regions(X_train, y_train, clf, ax=ax, legend=2)
+    ax.set_title(f"{title}\nPrecisión: {acc:.2f}")
+    ax.set_xlabel("Longitud del sépalo")
+    ax.set_ylabel("Ancho del sépalo")
+    ax.legend(title="Especies", labels=target_names)
+
+"""
+
+
+
+
+
+# y comenta los resultados.
 
 
