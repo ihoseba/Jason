@@ -33,7 +33,9 @@ from sklearn.linear_model import Perceptron
 
 # Cargar el dataset Wine
 wine_data = load_wine()
-X = wine_data.data[:, [6, 9]]  # Seleccionar las columnas "flavanoids" y "total_phenols"
+index_x=wine_data.feature_names.index("alcohol")
+index_y=wine_data.feature_names.index("hue")
+X = wine_data.data[:, [index_x, index_y]]  # Seleccionar las columnas "flavanoids" y "total_phenols"
 y = wine_data.target
 
 # Dividir los datos en conjuntos de entrenamiento y prueba
@@ -63,7 +65,7 @@ for name, model in models.items():
     # Graficar las fronteras de decisión
     plt.figure(figsize=(8, 6))
     plot_decision_regions(X_test_scaled, y_test, clf=model, legend=2)
-    plt.xlabel("flavanoids")
-    plt.ylabel("total_phenols")
+    plt.xlabel(wine_data.feature_names[index_x])
+    plt.ylabel(wine_data.feature_names[index_y])
     plt.title(f"Frontera de decisión ({name}) - Accuracy = {accuracy:.2f}")
     plt.show()
