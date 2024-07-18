@@ -39,7 +39,7 @@ X = wine_data.data[:, [index_x, index_y]]  # Seleccionar las columnas "flavanoid
 y = wine_data.target
 
 # Dividir los datos en conjuntos de entrenamiento y prueba
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=43)
 
 # Normalizar los datos
 scaler = StandardScaler()
