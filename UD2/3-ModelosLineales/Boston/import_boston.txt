@@ -1,0 +1,49 @@
+import pandas as pd
+import numpy as np
+data_url = "http://lib.stat.cmu.edu/datasets/boston"
+raw_df = pd.read_csv(data_url, sep="\s+", skiprows=22,
+header=None)
+data = np.hstack([raw_df.values[::2, :], raw_df.values[1::2,
+:2]])
+column_names = ['CRIM', 'ZN', 'INDUS', 'CHAS', 'NOX', 'RM',
+'AGE', 'DIS', 'RAD', 'TAX', 'PTRATIO', 'B', 'LSTAT']
+target = raw_df.values[1::2, 2]
+
+
+
+
+• CRIM
+Tasa de delincuencia per cápita asociada a cada observación.
+• ZN
+Porcentaje de zonas residenciales (para terrenos con un área por encima de las 25 mil
+pulgadas cuadradas).
+• INDUS
+Porcentaje de negocios que no sean de comercio al por menor (relacionado, por tanto,
+con el nivel de industrialización de la zona).
+• CHAS
+Variable ficticia o dummy, introducida en el sistema con fines discriminantes. En nuestro
+caso, vale 1 si el tramo en el que se encuadra la observación tiene salida hacia el río (y 0
+en otro caso).
+• NOX
+Concentración de óxido nítrico (en partes por 10 millones).
+• RM
+Número medio de habitaciones por vivienda en la observación realizada.
+• AGE
+Porcentaje de viviendas ocupadas por la persona propietaria y construidas con
+anterioridad a 1940.
+• DIS
+Valores de las distancias a 5 centros de trabajo de la ciudad de Boston (dichos valores se
+encuentran ponderados).
+• RAD
+Índice que mide el nivel de accesibilidad a una vía de alta velocidad (autovía, autopista…)
+que permite conectar con otra población.
+• TAX
+Tasa impositiva sobre la propiedad, en unidades de 10 mil dólares.
+• PTRATIO
+Ratio estudiantes-docentes asociado a cada medición.
+• B
+Término que, a través de una fórmula, cuantifica la proporción de personas con raíces
+afro-americanas.
+• LSTAT
+Proporción de individuos de baja condición social en la zona en la que se realiza la
+medición.
