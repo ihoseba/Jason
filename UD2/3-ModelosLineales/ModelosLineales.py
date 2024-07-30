@@ -43,3 +43,9 @@ print("Valor del coeficiente de determinación del conjunto de test:",
       round(lr.score(X_test, y_test), 3)
 )
 
+import numpy as np
+from seaborn import scatterplot
+plt.figure(figsize=(10, 7))
+scatterplot(x=X_test[:, 0], y=X_test[:, 1],c=y_pred)
+plt.title(f"Datos Reales con {len(np.unique(y_pred))} clusters")
+plt.show()
