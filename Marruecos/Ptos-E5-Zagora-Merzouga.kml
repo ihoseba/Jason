@@ -1,0 +1,2331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ptos-E5-Zagora-Merzouga.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Ptos-E5-Zagora-Merzouga</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>ZAGORA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-5.838031979460546</longitude>
+				<latitude>30.34289435014306</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001317700861719302</heading>
+				<tilt>0</tilt>
+				<range>537.6946544546216</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.837690586637625,30.34266677512366,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM001</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.83678983130891</longitude>
+				<latitude>30.32188714868454</latitude>
+				<altitude>0</altitude>
+				<heading>-0.457632955434657</heading>
+				<tilt>0</tilt>
+				<range>834.9170736892872</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.840517806722519,30.32335101218984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM002</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.83678983130891</longitude>
+				<latitude>30.32188714868454</latitude>
+				<altitude>0</altitude>
+				<heading>-0.457632955434657</heading>
+				<tilt>0</tilt>
+				<range>834.9170736892872</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.840296437614345,30.32110698608241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM003</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.838375345540745</longitude>
+				<latitude>30.32262525063781</latitude>
+				<altitude>0</altitude>
+				<heading>-0.458433422852681</heading>
+				<tilt>0</tilt>
+				<range>1307.462637009889</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.834890985544334,30.32103504395563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM004</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.828136666692354</longitude>
+				<latitude>30.31806541973031</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4532645352176241</heading>
+				<tilt>0</tilt>
+				<range>531.7876855024257</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.828326550094326,30.31812667042887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM005</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.686557585096654</longitude>
+				<latitude>30.25995655583076</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3818482921994649</heading>
+				<tilt>0</tilt>
+				<range>599.7888520620601</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.683678131515891,30.25962334054802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM006</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.563791827406887</longitude>
+				<latitude>30.20692243002671</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3200261158109753</heading>
+				<tilt>0</tilt>
+				<range>3215.96606673734</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.564955449983801,30.21076815353761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM007</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.563791827406887</longitude>
+				<latitude>30.20692243002671</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3200261158109753</heading>
+				<tilt>0</tilt>
+				<range>3215.96606673734</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.567360928578374,30.20451178614888,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM008</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.48380003003292</longitude>
+				<latitude>30.13286660408421</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2798222819020668</heading>
+				<tilt>0</tilt>
+				<range>1765.006742061026</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.479947252206556,30.13458258244355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM009</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.486099489741924</longitude>
+				<latitude>30.08775565050382</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2809719868051722</heading>
+				<tilt>0</tilt>
+				<range>481.140813357693</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.486208174542573,30.08726942422602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM010</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.446725755210535</longitude>
+				<latitude>30.07479779724472</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2612369942793818</heading>
+				<tilt>0</tilt>
+				<range>171.6883154016051</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.446885178742152,30.07496298737684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM011</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.384079015101673</longitude>
+				<latitude>30.06037708435762</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2298506106746984</heading>
+				<tilt>0</tilt>
+				<range>673.2571512312023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.38455112215872,30.06065990607152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM012</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.371194116069414</longitude>
+				<latitude>30.06538958184587</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2233959758750167</heading>
+				<tilt>0</tilt>
+				<range>558.7283960206273</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.371316904291104,30.06599769848772,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM013</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.367457731868387</longitude>
+				<latitude>30.06558823988079</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2215241060259252</heading>
+				<tilt>0</tilt>
+				<range>554.0718830035402</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.3659884028648,30.06559518269056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM014</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.336270799647311</longitude>
+				<latitude>30.07427022043674</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2058974846200088</heading>
+				<tilt>0</tilt>
+				<range>634.8891514154637</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.337952781814616,30.0743395475411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM015</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.31133247602862</longitude>
+				<latitude>30.09242165688464</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1933974934544668</heading>
+				<tilt>0</tilt>
+				<range>614.8708257036402</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.312835061462096,30.09215332856912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM016</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.295138527141584</longitude>
+				<latitude>30.09871218618204</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1852770998354724</heading>
+				<tilt>0</tilt>
+				<range>579.7729364176462</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.296628342088782,30.09894967927413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM017</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.295171804713922</longitude>
+				<latitude>30.09744589325259</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1852937713738255</heading>
+				<tilt>0</tilt>
+				<range>295.6397513858566</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.295070016986885,30.09745175293556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM018</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.293103660430643</longitude>
+				<latitude>30.09684572016461</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1842566601330884</heading>
+				<tilt>0</tilt>
+				<range>277.3059963981242</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.293195953594124,30.09722188666743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM019</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.29019930613465</longitude>
+				<latitude>30.09583655637033</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1828002475627852</heading>
+				<tilt>0</tilt>
+				<range>240.1136738159167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.289445062027779,30.09541529836338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM020</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.268995254760036</longitude>
+				<latitude>30.10299010638859</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1721667030613349</heading>
+				<tilt>0</tilt>
+				<range>481.806835845771</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.269197997104468,30.10270064480122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM021</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.255665131742298</longitude>
+				<latitude>30.10934998919986</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1654802040814225</heading>
+				<tilt>0</tilt>
+				<range>578.1598801636023</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.255520916707423,30.10915208942776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM022</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.253506166878013</longitude>
+				<latitude>30.10942929414357</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1643971606009252</heading>
+				<tilt>0</tilt>
+				<range>587.7789727824778</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.251901018445002,30.11026874004047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM023</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.22307365794148</longitude>
+				<latitude>30.12840856111626</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1491258216168687</heading>
+				<tilt>0</tilt>
+				<range>633.2576961317939</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.220295357626641,30.1297484919766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM024</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.21946515793174</longitude>
+				<latitude>30.13032689680965</latitude>
+				<altitude>0</altitude>
+				<heading>-0.147315701346464</heading>
+				<tilt>0</tilt>
+				<range>279.7861948444495</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.219184954005149,30.13060454257283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM025</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.211707018890009</longitude>
+				<latitude>30.13829518868071</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1434209628475478</heading>
+				<tilt>0</tilt>
+				<range>293.4726945217303</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.210312917278427,30.13893118925164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM026</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.208704714269666</longitude>
+				<latitude>30.14032919029792</latitude>
+				<altitude>0</altitude>
+				<heading>-0.141913510854271</heading>
+				<tilt>0</tilt>
+				<range>292.3119189265041</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.208210439212352,30.14063452594297,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM027</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.202375762001501</longitude>
+				<latitude>30.14663288138915</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1387353871820465</heading>
+				<tilt>0</tilt>
+				<range>292.2035280452816</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.202062785208169,30.14679837553689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM028</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.200493098746258</longitude>
+				<latitude>30.1485890468876</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1377898755333347</heading>
+				<tilt>0</tilt>
+				<range>292.2957880571587</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.200470615852002,30.14831615201647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM029</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.186276190687233</longitude>
+				<latitude>30.15630933326418</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1306485722600757</heading>
+				<tilt>0</tilt>
+				<range>345.9532453996745</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.186084261172371,30.15626139502289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM030</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.165182932535654</longitude>
+				<latitude>30.15625981744371</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1200524882726691</heading>
+				<tilt>0</tilt>
+				<range>450.5495829551431</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.165381299352086,30.15692108491815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM031</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.140641565156921</longitude>
+				<latitude>30.20574678205107</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1077174358484303</heading>
+				<tilt>0</tilt>
+				<range>982.9854447886144</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.141005362765928,30.20507399948055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM032</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.113269697434828</longitude>
+				<latitude>30.2310735321439</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0939413611951114</heading>
+				<tilt>0</tilt>
+				<range>967.4211640265589</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.113265849547998,30.23127452262233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM033</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.081453286146691</longitude>
+				<latitude>30.27195532757518</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07791433926475662</heading>
+				<tilt>0</tilt>
+				<range>947.6763132410758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.078789725145442,30.27333689153467,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM034</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.010196370865707</longitude>
+				<latitude>30.37600123687006</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04194616563385172</heading>
+				<tilt>0</tilt>
+				<range>2511.424290201082</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-5.006330010080324,30.3777243156596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM035</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.992184514452767</longitude>
+				<latitude>30.44852392741251</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03290460295476109</heading>
+				<tilt>0</tilt>
+				<range>1175.836069767407</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.990046095920258,30.45062744495256,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM036</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.973582746572772</longitude>
+				<latitude>30.48059075084999</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02347465761255501</heading>
+				<tilt>0</tilt>
+				<range>1025.998197528824</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.976925357261042,30.4813630547099,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM037</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.90433473271217</longitude>
+				<latitude>30.55493109103671</latitude>
+				<altitude>0</altitude>
+				<heading>0.01168241317121285</heading>
+				<tilt>0</tilt>
+				<range>1163.514571371833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.904615069491141,30.55578765946549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM038</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.822736858553688</longitude>
+				<latitude>30.63563142405278</latitude>
+				<altitude>0</altitude>
+				<heading>0.05320421041721152</heading>
+				<tilt>0</tilt>
+				<range>617.7213367382597</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.822201695463756,30.63604436862269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM039</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.809431693508251</longitude>
+				<latitude>30.63335648359789</latitude>
+				<altitude>0</altitude>
+				<heading>0.05998448952849145</heading>
+				<tilt>0</tilt>
+				<range>2093.447744247074</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.810412228747454,30.63694505490518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM040</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.749622211315427</longitude>
+				<latitude>30.64091961549867</latitude>
+				<altitude>0</altitude>
+				<heading>0.09046420142524027</heading>
+				<tilt>0</tilt>
+				<range>482.1116983947706</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.750403474881698,30.64186819882352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM041</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.716113455811156</longitude>
+				<latitude>30.64061346675316</latitude>
+				<altitude>0</altitude>
+				<heading>0.131650967370528</heading>
+				<tilt>0</tilt>
+				<range>276.1140174626103</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.7155434689328,30.64117298288646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM042</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.686306533825037</longitude>
+				<latitude>30.66852549731212</latitude>
+				<altitude>0</altitude>
+				<heading>0.1468460107052698</heading>
+				<tilt>0</tilt>
+				<range>591.0983043294785</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.686287532134395,30.66880453654983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM043</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.589179167657977</longitude>
+				<latitude>30.67925935410589</latitude>
+				<altitude>0</altitude>
+				<heading>0.1963968476209207</heading>
+				<tilt>0</tilt>
+				<range>3843.216763618327</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.579175138862674,30.68020120922003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM044</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.488736034934567</longitude>
+				<latitude>30.66618304827297</latitude>
+				<altitude>0</altitude>
+				<heading>0.2476416399522094</heading>
+				<tilt>0</tilt>
+				<range>1199.206479607193</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.492462113212458,30.66692536360799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM045</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.462004064135943</longitude>
+				<latitude>30.67798477186707</latitude>
+				<altitude>0</altitude>
+				<heading>0.2612782706151267</heading>
+				<tilt>0</tilt>
+				<range>382.8627981538075</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.461779476497666,30.67872703574002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM046</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.440912153705669</longitude>
+				<latitude>30.67891330498163</latitude>
+				<altitude>0</altitude>
+				<heading>0.2720393698717809</heading>
+				<tilt>0</tilt>
+				<range>424.6286981037697</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.439962981271249,30.6799362048105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM047</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.420310732047811</longitude>
+				<latitude>30.68202734485369</latitude>
+				<altitude>0</altitude>
+				<heading>0.2825510960179257</heading>
+				<tilt>0</tilt>
+				<range>430.2512131925739</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.421872292523259,30.68179602364042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM048</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.416096756092371</longitude>
+				<latitude>30.6838521848589</latitude>
+				<altitude>0</altitude>
+				<heading>0.2847014397027768</heading>
+				<tilt>0</tilt>
+				<range>426.5537115981478</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.415848135121371,30.68378510759352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM049</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.415845584102825</longitude>
+				<latitude>30.68648703196944</latitude>
+				<altitude>0</altitude>
+				<heading>0.2848296229902778</heading>
+				<tilt>0</tilt>
+				<range>426.3034371024378</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.414449220814896,30.68704871387605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM050</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.374599290286613</longitude>
+				<latitude>30.7102298260198</latitude>
+				<altitude>0</altitude>
+				<heading>0.3058874134312399</heading>
+				<tilt>0</tilt>
+				<range>555.5702671489538</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.375233625791697,30.71015965141342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM051</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.341669163332656</longitude>
+				<latitude>30.71708363333178</latitude>
+				<altitude>0</altitude>
+				<heading>0.3227054837282896</heading>
+				<tilt>0</tilt>
+				<range>2248.302317034889</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.344451579077573,30.71669734491034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM052</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.288358437875325</longitude>
+				<latitude>30.73820857825759</latitude>
+				<altitude>0</altitude>
+				<heading>0.3499432903129308</heading>
+				<tilt>0</tilt>
+				<range>783.5996913322008</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.289864796000171,30.73911575109649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM053</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.253433154696795</longitude>
+				<latitude>30.73883282338713</latitude>
+				<altitude>0</altitude>
+				<heading>0.3677949000672787</heading>
+				<tilt>0</tilt>
+				<range>1325.125450591294</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.252372480304658,30.74027773549138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM054</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.225435384589652</longitude>
+				<latitude>30.74394912697766</latitude>
+				<altitude>0</altitude>
+				<heading>0.3821068227009269</heading>
+				<tilt>0</tilt>
+				<range>1314.305049910441</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.225985153071551,30.74372915324873,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM055</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.143050078516946</longitude>
+				<latitude>30.7849617313475</latitude>
+				<altitude>0</altitude>
+				<heading>0.4242407814677834</heading>
+				<tilt>0</tilt>
+				<range>1309.871258816462</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.142521172825592,30.78529111257858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM056</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.138953811393607</longitude>
+				<latitude>30.84139538503488</latitude>
+				<altitude>0</altitude>
+				<heading>0.426335754753718</heading>
+				<tilt>0</tilt>
+				<range>1300.159382768172</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.139317605862517,30.8410096293669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM057</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.159430589653201</longitude>
+				<latitude>30.84743502730049</latitude>
+				<altitude>0</altitude>
+				<heading>0.4158368120665383</heading>
+				<tilt>0</tilt>
+				<range>910.6051057237667</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.16310726199518,30.84846694985957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM058</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.161285688895193</longitude>
+				<latitude>30.8550041388364</latitude>
+				<altitude>0</altitude>
+				<heading>0.4148855979378077</heading>
+				<tilt>0</tilt>
+				<range>249.4172145047189</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.161523727620153,30.85501409659376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM059</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.174656769956797</longitude>
+				<latitude>30.86570545137671</latitude>
+				<altitude>0</altitude>
+				<heading>0.4080269896469734</heading>
+				<tilt>0</tilt>
+				<range>812.6749038567699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.175317269184987,30.86651496149109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM060</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.180953095300947</longitude>
+				<latitude>30.86818056510816</latitude>
+				<altitude>0</altitude>
+				<heading>0.4047965789520723</heading>
+				<tilt>0</tilt>
+				<range>594.8972851216701</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.179075852454797,30.86856398692528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM061</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.189771492716326</longitude>
+				<latitude>30.87376527938351</latitude>
+				<altitude>0</altitude>
+				<heading>0.4002717914245542</heading>
+				<tilt>0</tilt>
+				<range>676.4221458513958</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.189251481840927,30.87295780782318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM062</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.220629878050715</longitude>
+				<latitude>30.89570323956922</latitude>
+				<altitude>0</altitude>
+				<heading>0.384432025498499</heading>
+				<tilt>0</tilt>
+				<range>678.9696265162222</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.219290778966426,30.89503226869657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM063</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.227023070284837</longitude>
+				<latitude>30.92383273941705</latitude>
+				<altitude>0</altitude>
+				<heading>0.3811462782221927</heading>
+				<tilt>0</tilt>
+				<range>1487.358635562191</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.224458448383769,30.92151232063181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM064</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.189453420163161</longitude>
+				<latitude>30.96264623554404</latitude>
+				<altitude>0</altitude>
+				<heading>0.4004624499073449</heading>
+				<tilt>0</tilt>
+				<range>647.5236289076197</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.190626100553564,30.96276891210618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM065</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.182561269143272</longitude>
+				<latitude>30.97068142094955</latitude>
+				<altitude>0</altitude>
+				<heading>0.4040086809904082</heading>
+				<tilt>0</tilt>
+				<range>643.5028978207206</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.181152318191153,30.97093959136431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM066</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.173479053219903</longitude>
+				<latitude>30.9729702703843</latitude>
+				<altitude>0</altitude>
+				<heading>0.4086824707361187</heading>
+				<tilt>0</tilt>
+				<range>657.4772633052916</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.174998417437662,30.97269957420925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM067</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.171609171503008</longitude>
+				<latitude>30.97877416844617</latitude>
+				<altitude>0</altitude>
+				<heading>0.4096447643199193</heading>
+				<tilt>0</tilt>
+				<range>659.1637650736952</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.171061335485827,30.97912307908011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM068</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.193253421093481</longitude>
+				<latitude>30.99408382891397</latitude>
+				<altitude>0</altitude>
+				<heading>0.3985018586499338</heading>
+				<tilt>0</tilt>
+				<range>648.7554313643947</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.19254596144278,30.99369552701953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM069</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.190932423393698</longitude>
+				<latitude>31.00282193135389</latitude>
+				<altitude>0</altitude>
+				<heading>0.3996969729741545</heading>
+				<tilt>0</tilt>
+				<range>1954.35452334896</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.188910607360674,31.00523301591289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM070</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.185535853045355</longitude>
+				<latitude>31.01540449473032</latitude>
+				<altitude>0</altitude>
+				<heading>0.4024766905188221</heading>
+				<tilt>0</tilt>
+				<range>626.5465681013396</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.185859950580934,31.0158956085236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM071</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.180983885590396</longitude>
+				<latitude>31.03539400391859</latitude>
+				<altitude>0</altitude>
+				<heading>0.404823138595809</heading>
+				<tilt>0</tilt>
+				<range>488.9060871400341</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.180008324661276,31.03646584848476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM072</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.172224820755416</longitude>
+				<latitude>31.03996972837854</latitude>
+				<altitude>0</altitude>
+				<heading>0.4093391913766757</heading>
+				<tilt>0</tilt>
+				<range>498.8388784370196</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.171288486771498,31.04017690522124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM073</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.169403776636909</longitude>
+				<latitude>31.04265435195171</latitude>
+				<altitude>0</altitude>
+				<heading>0.4107938630894259</heading>
+				<tilt>0</tilt>
+				<range>510.2685672145647</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.168634139633541,31.04324332423031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM074</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.16157626861231</longitude>
+				<latitude>31.04796283525798</latitude>
+				<altitude>0</altitude>
+				<heading>0.4148302571945897</heading>
+				<tilt>0</tilt>
+				<range>170.265608600171</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.161782074430138,31.04814431163686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM075</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.16300935951272</longitude>
+				<latitude>31.05212123003794</latitude>
+				<altitude>0</altitude>
+				<heading>0.414091091644489</heading>
+				<tilt>0</tilt>
+				<range>366.3642699519824</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.162826754644144,31.05179000541603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM076</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.162533592330989</longitude>
+				<latitude>31.06338646477725</latitude>
+				<altitude>0</altitude>
+				<heading>0.4143365584133469</heading>
+				<tilt>0</tilt>
+				<range>378.6767361966112</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.161848089791246,31.06377992022837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM077</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.156150303722517</longitude>
+				<latitude>31.06972581792843</latitude>
+				<altitude>0</altitude>
+				<heading>0.4176304249484861</heading>
+				<tilt>0</tilt>
+				<range>385.5279111228074</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.156503839539898,31.06903130228054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM078</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.15764604413955</longitude>
+				<latitude>31.07268611418731</latitude>
+				<altitude>0</altitude>
+				<heading>0.4168584589551911</heading>
+				<tilt>0</tilt>
+				<range>387.3291148462415</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.157393401272294,31.07236896511844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM079</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.154411333753444</longitude>
+				<latitude>31.07683297354795</latitude>
+				<altitude>0</altitude>
+				<heading>0.4185280372848882</heading>
+				<tilt>0</tilt>
+				<range>399.0640667442978</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.154970000875448,31.07622397877016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM080</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.139935210678545</longitude>
+				<latitude>31.0837585813967</latitude>
+				<altitude>0</altitude>
+				<heading>0.4260008512803108</heading>
+				<tilt>0</tilt>
+				<range>417.9453739241999</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.141104881609158,31.08327716764216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM081</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.131215865236041</longitude>
+				<latitude>31.08771212471213</latitude>
+				<altitude>0</altitude>
+				<heading>0.4305027093829074</heading>
+				<tilt>0</tilt>
+				<range>420.2592836851337</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.132563685113018,31.08691241382242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM082</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.126939474082001</longitude>
+				<latitude>31.08989279223695</latitude>
+				<altitude>0</altitude>
+				<heading>0.4327108711884295</heading>
+				<tilt>0</tilt>
+				<range>428.8584828068507</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.127103179023964,31.0899926738233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM083</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.100365220172656</longitude>
+				<latitude>31.09732271005513</latitude>
+				<altitude>0</altitude>
+				<heading>0.4464343312694974</heading>
+				<tilt>0</tilt>
+				<range>547.3703461016069</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.099850277158517,31.09756046187701,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM085</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.098800740552803</longitude>
+				<latitude>31.11743329311695</latitude>
+				<altitude>0</altitude>
+				<heading>0.4472415189437529</heading>
+				<tilt>0</tilt>
+				<range>538.3404966433048</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.098410028765938,31.11672829148585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM086</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.051932202355059</longitude>
+				<latitude>31.13571330495964</latitude>
+				<altitude>0</altitude>
+				<heading>0.4714716591131177</heading>
+				<tilt>0</tilt>
+				<range>325.667951936505</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.051760537644332,31.13637050187936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM087</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.050248362176198</longitude>
+				<latitude>31.13812951574087</latitude>
+				<altitude>0</altitude>
+				<heading>0.472342232789573</heading>
+				<tilt>0</tilt>
+				<range>833.6364584903376</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.048216942652044,31.13835788455988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM088</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.036901071625246</longitude>
+				<latitude>31.14774909115241</latitude>
+				<altitude>0</altitude>
+				<heading>0.4792448891551991</heading>
+				<tilt>0</tilt>
+				<range>828.176829201466</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.03734441970995,31.14770527219542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZM089</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-03</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.031964947243548</longitude>
+				<latitude>31.14723239344541</latitude>
+				<altitude>0</altitude>
+				<heading>0.4817981224098846</heading>
+				<tilt>0</tilt>
+				<range>1271.643316890591</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>M:/MyCloud/#/1.Users/Jose/07. Ocio/1.Viajes/2024/2024-Marruecos/Rutas/2024/Borrador-Zagora-Merzouga.kml#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.030811569669201,31.14641255182838,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALI-COJO</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-08</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.027687942440436</longitude>
+				<latitude>31.14639124447118</latitude>
+				<altitude>0</altitude>
+				<heading>-0.007396273741404645</heading>
+				<tilt>0</tilt>
+				<range>777.9331903554031</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.028172843125292,31.14644068425578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAS-RMLIA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-08</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.415726032177375</longitude>
+				<latitude>30.6858092230859</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002149154898407777</heading>
+				<tilt>0</tilt>
+				<range>428.3614628725467</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.415774872347443,30.6861767219626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RMLIA</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<gx:TimeStamp><when>2024-04-08</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-4.415304900425764</longitude>
+				<latitude>30.6855738997873</latitude>
+				<altitude>0</altitude>
+				<heading>-2.172521607800526e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000001795049</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.416331505590182,30.68581422954258,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

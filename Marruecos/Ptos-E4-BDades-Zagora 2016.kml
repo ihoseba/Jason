@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Ptos-E4-BDades-Zagora 2016.kml</name>
+	<StyleMap id="waypoint11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_h20">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint_n20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Ptos-E4-BDades-Zagora 2016</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>0 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.986416999999999,31.366666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.914251,31.364077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.870477,31.301561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.858158,31.254901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.83339,31.227704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.821274999999999,31.20919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.78424,31.193509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.78194,31.183081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.771029,31.165452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.762813,31.159333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.764077,31.126986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.771083,31.123822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.771245,31.084505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.782037,31.057298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.787862999999999,31.053423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.816607000000001,30.975919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.81477,30.971084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.86812,30.887448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18 dad</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.864471,30.871628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.771427999999999,30.852632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.773976999999999,30.8395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.769498,30.834596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.767469,30.829102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.761773,30.808649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.760571000000001,30.801108,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.765522000000001,30.784286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.767118,30.78409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.77521,30.778979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.790601,30.763118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.820247,30.745372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.825985000000001,30.739633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.833936,30.734365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.834413,30.730078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.87164,30.72584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.878063000000001,30.726102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.890329000000001,30.714628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.910696,30.710365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.907384,30.680695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.888591999999999,30.680101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.862902,30.660634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.857580000000001,30.65503,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.840955,30.640581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.830429,30.625059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.830738,30.622929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.839254000000001,30.618966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27 NZ</name>
+			<visibility>0</visibility>
+			<TimeStamp><when>1992-01-02</when>
+</TimeStamp>
+			<styleUrl>#waypoint11</styleUrl>
+			<Point>
+				<coordinates>-5.845958,30.600521,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

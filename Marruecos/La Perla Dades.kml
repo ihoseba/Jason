@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>La Perla Dades.kml</name>
+	<StyleMap id="msn_gas_stations">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gas_stations</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gas_stations</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_gas_stations">
+		<IconStyle>
+			<scale>0.933333</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_gas_stations">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/gas_stations.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="style233">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="style2600">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id92">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style2600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style233</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>La Perla Dades</name>
+		<Placemark>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2020-04-06T04:21:58.551635742Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-5.99960197682443</longitude>
+				<latitude>31.36130606104132</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06733599085533061</heading>
+				<tilt>28.21935923922446</tilt>
+				<range>1316.065138810213</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_gas_stations</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.000879786458524,31.35861534132967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La perla Dades pto 2 dad </name>
+			<open>1</open>
+			<styleUrl>#stylemap_id92</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-6.00086169509061,31.3586321309487,0 -6.00190243017683,31.35662376905952,0 -6.004381850922277,31.34850508575298,0 -6.006055559345213,31.34272734540525,0 -6.007085555067735,31.34006888367697,0 -6.0083237154078,31.33738516344001,0 -6.008792726178671,31.33498284856203,0 -6.010776566652048,31.32947101781945,0 -6.009640778127886,31.32938395856067,0 -6.007907324598978,31.32779788932726,0 -6.006600532571069,31.32750148442317,0 -6.005763048548538,31.32769706019571,0 -6.004520819808715,31.32724874349068,0 -6.003746488261833,31.32694201888801,0 -6.003407439898868,31.32663647291963,0 -6.003257720232283,31.32626366308241,0 -6.003544651026228,31.32565476989596,0 -6.004414465072437,31.32311792826626,0 -6.005105486534688,31.32211844079791,0 -6.005423933142742,31.32235135716687,0 -6.005088770430477,31.32201747667792,0 -6.004473509524376,31.32289791745825,0 -6.003557908307091,31.32531760501675,0 -6.003255775926897,31.32596589967416,0 -6.003168123898782,31.32608449035597,0 -6.003123909869883,31.32577515474372,0 -6.002944803455313,31.32548375412115,0 -6.002614778027128,31.32543358308298,0 -6.001092329892947,31.32599180799923,0 -6.001072531525341,31.3262100678053,0 -6.001547570468073,31.32698524616889,0 -6.001026554501633,31.32780196171747,0 -6.00020237887076,31.3281265226654,0 -6.000271829481402,31.32877932529787,0 -5.998912772952337,31.32919187197295,0 -5.998034671309229,31.32857757680332,0 -5.996223414673803,31.32721725874658,0 -5.996120627695695,31.32697007398762,0 -5.993885812761884,31.32607619643509,0 -5.99084709998654,31.32483391178647,0 -5.988608017821421,31.32400290378953,0 -5.985827642916571,31.32268526000677,0 -5.984063131103479,31.3216958880847,0 -5.982437766055586,31.32113794411355,0 -5.980919978311508,31.31957215501327,0 -5.97642826032923,31.31502376390479,0 -5.973984741928781,31.31219373239337,0 -5.972111376207901,31.31025742816705,0 -5.971030946634304,31.31075640774906,0 -5.963722902394282,31.31046446728791,0 -5.959270783054428,31.31017545161536,0 -5.95408736885202,31.31197147227417,0 -5.948618162415153,31.31162532049908,0 -5.940482533755798,31.31334948774393,0 -5.93229862342538,31.31153137516058,0 -5.926108552724044,31.31266272048927,0 -5.918678060280494,31.31250115003875,0 -5.908122442692061,31.31080713321608,0 -5.904486367227112,31.3121143119684,0 -5.896253982515306,31.3097927490418,0 -5.881143340881833,31.30518247834374,0 -5.876309789613028,31.3027243777369,0 -5.871424885712246,31.30074159568751,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Hotel La Perla Dades</name>
+			<LookAt>
+				<gx:TimeStamp><when>2020-04-06T04:21:58.551635742Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-6.00431699645594</longitude>
+				<latitude>31.32075236075914</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07021398168650679</heading>
+				<tilt>0</tilt>
+				<range>1559.319214157234</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.005622767142467,31.32220733946115,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
